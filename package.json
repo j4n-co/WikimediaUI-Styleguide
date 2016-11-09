@@ -19,6 +19,7 @@
     "grunt-contrib-watch": "1.0.0",
     "grunt-exec": "1.0.0",
     "grunt-postcss": "^0.8.0",
+    "grunt-sketch": "^1.0.2",
     "grunt-stylelint": "0.6.0",
     "pixrem": "^3.0.2",
     "postcss": "^5.2.5",
